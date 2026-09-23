@@ -1,0 +1,13 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "huawei-cup-23-math-modeling",
+  "version": "1.0.0",
+  "description": "Evidence-first workflow for the 23rd Huawei Cup Chinese Graduate Mathematical Modeling Contest.",
+  "author": {
+    "name": "2145602879",
+    "url": "https://github.com/2145602879"
+  },
+  "homepage": "https://github.com/2145602879/huawei-cup-23-math-modeling",
+  "repository": "https://github.com/2145602879/huawei-cup-23-math-modeling"
+}
+

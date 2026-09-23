@@ -1,0 +1,4 @@
+interface:
+  display_name: "Huawei Cup 23 Math Modeling"
+  short_description: "Evidence-first Huawei Cup 23 modeling workflow"
+  default_prompt: "Use $huawei-cup-23-math-modeling to complete this contest task from official-source intake through reproducible computation, paper QA, and submission audit."

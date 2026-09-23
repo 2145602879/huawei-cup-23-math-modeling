@@ -1,0 +1,21 @@
+{
+  "name": "huawei-cup-23-math-modeling",
+  "interface": {
+    "displayName": "Huawei Cup 23 Math Modeling"
+  },
+  "plugins": [
+    {
+      "name": "huawei-cup-23-math-modeling",
+      "source": {
+        "source": "local",
+        "path": "./plugins/huawei-cup-23-math-modeling"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
+

@@ -1,0 +1,18 @@
+{
+  "name": "huawei-cup-23-math-modeling",
+  "version": "1.0.0",
+  "description": "A competition-aware, evidence-first workflow for the 23rd Huawei Cup Chinese Graduate Mathematical Modeling Contest.",
+  "author": {
+    "name": "2145602879"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Huawei Cup 23 Math Modeling",
+    "shortDescription": "Build, verify, and submit a Huawei Cup 23 modeling paper.",
+    "longDescription": "Routes a graduate mathematical-modeling project from problem parsing and reproducible computation through AI-use disclosure, anonymous template-compliant paper production, PDF/MD5 checks, and submission audit.",
+    "developerName": "2145602879",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Use $huawei-cup-23-math-modeling to complete this Huawei Cup 23 mathematical-modeling task. First inspect the problem and official attachments, then run the evidence-first workflow and stop at any unresolved rule or verification failure."
+  }
+}
